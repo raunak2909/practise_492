@@ -105,7 +105,7 @@ void main(){
   ///Find all the students avg total marks
   ///Find the percentage of each student
   ///Find who topped the class of 5 students
-  ///Rank the Students acc. to their percentage
+  ///Rank the Students acc. to their percentage till 3
   ///
   /// Create a random data for 10 employees of office with information like name, email, dob, joinDate, salary, attendance, address...etc
 }
